@@ -1,0 +1,2 @@
+1.create  an AWS account
+2.Login to AWS console
